@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2017/10/19 14:06
+# @Author  : shenwei
+# @微信公众号    :老干部集中营
+# @File    : data.py
+# @Software: PyCharm
+# @Version ：V1.0
+#在这里定义即将测试的手机
+#注意：需要提前在information中添加相对应的手机信息
+
+Phone: 'VIVO'
