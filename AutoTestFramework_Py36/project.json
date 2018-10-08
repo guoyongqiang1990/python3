@@ -1,0 +1,25 @@
+{
+"device":{
+		"DUT":{"sn":"d0ecfa55"},
+		"SUBDUT1":{"sn":"None"}
+		},
+"log_config":{
+		"log":"on",
+		"pass":"off",
+		"screencap":"no"
+		},
+"send_email":{
+        "send":"no",
+        "smtpserver":"smtp.gionee.com",
+        "user":"yanglk@gionee.com",
+        "password":"FAF15%ff1",
+        "sender":"yanglk@gionee.com",
+        "receiver":["yanglk@gionee.com","yangyi@gionee.com"]
+        },
+"auto_upgrade":{
+		"OTA":"no",
+		"product":"G1602A",
+		"tag":"BJ_G1602A_sign",
+		"next":"yes"
+		}
+}

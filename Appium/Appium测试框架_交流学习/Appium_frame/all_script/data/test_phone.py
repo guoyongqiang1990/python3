@@ -2,7 +2,7 @@
 # @Time    : 2017/10/19 14:06
 # @Author  : shenwei
 # @微信公众号    :老干部集中营
-# @File    : data.py
+# @File    : Data.py
 # @Software: PyCharm
 # @Version ：V1.0
 import sys
@@ -13,7 +13,7 @@ from data import information
 #通过test_phone.yaml文件获取返回手机信息
 def testphone():
 	path = os.path.abspath(os.path.join(os.path.dirname(__file__),"..")) #获取当前项目的根路径
-	f = open( path + '\\data\\test_phone.yaml', 'rb')
+	f = open( path + '\\Data\\test_phone.yaml', 'rb')
 	files = yaml.load(f)
 	f.close()
 	file = files['Phone']

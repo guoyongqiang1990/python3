@@ -7,7 +7,7 @@ except IOError as err:
     print("File Error:" + str(err))
 
 finally:
-    if 'data' in locals():
+    if 'Data' in locals():
         data.close()
 
 #用finally保证文件关闭

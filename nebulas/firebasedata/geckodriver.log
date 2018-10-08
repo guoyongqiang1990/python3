@@ -1,0 +1,746 @@
+1538122936601	geckodriver	INFO	geckodriver 0.18.0
+1538122936611	geckodriver	INFO	Listening on 127.0.0.1:51231
+1538122938747	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538122939565	Marionette	INFO	Enabled via --marionette
+1538122942268	Marionette	INFO	Listening on port 51237
+1538122942279	Marionette	INFO	Listening on port 51237
+1538122942451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538122942511	Marionette	DEBUG	loaded listener.js
+1538122942537	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538122942698	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538122942699	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1538122943260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1538122943328	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1538122948483	Marionette	INFO	New connections will no longer be accepted
+1538122968629	geckodriver	INFO	geckodriver 0.18.0
+1538122968645	geckodriver	INFO	Listening on 127.0.0.1:51323
+1538122970701	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538122971441	Marionette	INFO	Enabled via --marionette
+1538122973608	Marionette	INFO	Listening on port 51329
+1538122973661	Marionette	INFO	Listening on port 51329
+1538122973837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538122973895	Marionette	DEBUG	loaded listener.js
+1538122973930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538122977172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538122977173	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538122979028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538122979996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538122981157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-585381966&timestamp=1538122979225"
+1538122981158	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-585381966&timestamp=1538122979225"
+1538122981161	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538122986437	Marionette	INFO	New connections will no longer be accepted
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 20404] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1538123806383	geckodriver	INFO	geckodriver 0.18.0
+1538123806393	geckodriver	INFO	Listening on 127.0.0.1:51543
+1538123808504	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538123809406	Marionette	INFO	Enabled via --marionette
+[GPU 22104] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538123811446	Marionette	INFO	Listening on port 51549
+1538123811468	Marionette	INFO	Listening on port 51549
+1538123811638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538123811688	Marionette	DEBUG	loaded listener.js
+1538123811737	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538123815193	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538123815194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538123817076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538123817962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538123819074	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=872242695&timestamp=1538123817138"
+1538123819076	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=872242695&timestamp=1538123817138"
+1538123819077	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538123824255	Marionette	INFO	New connections will no longer be accepted
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 13456] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1538124968184	geckodriver	INFO	geckodriver 0.18.0
+1538124968195	geckodriver	INFO	Listening on 127.0.0.1:53012
+1538124970289	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538124971215	Marionette	INFO	Enabled via --marionette
+1538124973250	Marionette	INFO	Listening on port 53018
+1538124973284	Marionette	INFO	Listening on port 53018
+1538124973419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538124973467	Marionette	DEBUG	loaded listener.js
+1538124973508	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538124976780	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538124976781	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538124978733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538124979552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538124980596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1434939978&timestamp=1538124978914"
+1538124980598	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1434939978&timestamp=1538124978914"
+1538124980600	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1538125030807	Marionette	INFO	New connections will no longer be accepted
+1538125295293	geckodriver	INFO	geckodriver 0.18.0
+1538125295303	geckodriver	INFO	Listening on 127.0.0.1:53839
+1538125297392	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538125298327	Marionette	INFO	Enabled via --marionette
+[GPU 14116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538125300465	Marionette	INFO	Listening on port 53845
+1538125300496	Marionette	INFO	Listening on port 53845
+1538125300565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538125300778	Marionette	DEBUG	loaded listener.js
+1538125300831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538125303775	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538125303776	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538125305789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538125306321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538125307203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-834081347&timestamp=1538125305745"
+1538125307205	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-834081347&timestamp=1538125305745"
+1538125307207	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538125358570	Marionette	INFO	New connections will no longer be accepted
+[Child 17240] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1538126398142	geckodriver	INFO	geckodriver 0.18.0
+1538126398156	geckodriver	INFO	Listening on 127.0.0.1:54521
+1538126400254	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538126401223	Marionette	INFO	Enabled via --marionette
+[GPU 18952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538126403401	Marionette	INFO	Listening on port 54527
+1538126403432	Marionette	INFO	Listening on port 54527
+1538126403884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538126403928	Marionette	DEBUG	loaded listener.js
+1538126403967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538126406945	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538126406945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538126408584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538126409356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538126409745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=320127793&timestamp=1538126408811"
+1538126409746	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=320127793&timestamp=1538126408811"
+1538126409748	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+[GPU 18952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 18952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+37	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538126616685	Marionette	DEBUG	loaded listener.js
+1538126616725	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538126619992	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538126619992	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538126621707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538126622525	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538126622844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-471944512&timestamp=1538126621863"
+1538126622847	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-471944512&timestamp=1538126621863"
+1538126622850	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+[GPU 14356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538126761947	geckodriver	INFO	geckodriver 0.18.0
+1538126761958	geckodriver	INFO	Listening on 127.0.0.1:54804
+1538126764031	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538126765312	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 15816] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1538126767557	Marionette	INFO	Listening on port 54810
+1538126767596	Marionette	INFO	Listening on port 54810
+1538126767672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538126767719	Marionette	DEBUG	loaded listener.js
+1538126767757	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538126770801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538126770801	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538126772571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538126773377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538126773665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-602624299&timestamp=1538126772742"
+1538126773668	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-602624299&timestamp=1538126772742"
+1538126773670	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538126775263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1538126825275	Marionette	INFO	New connections will no longer be accepted
+1538127001110	geckodriver	INFO	geckodriver 0.18.0
+1538127001122	geckodriver	INFO	Listening on 127.0.0.1:55216
+1538127003193	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538127003951	Marionette	INFO	Enabled via --marionette
+1538127005921	Marionette	INFO	Listening on port 55222
+1538127005938	Marionette	INFO	Listening on port 55222
+1538127006322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538127006364	Marionette	DEBUG	loaded listener.js
+1538127006380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538127009481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538127009481	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538127011196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538127012146	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538127012569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=2108526730&timestamp=1538127011378"
+1538127012577	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=2108526730&timestamp=1538127011378"
+1538127012579	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538127013899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11364] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc1538127073279	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538127074053	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Child 19140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538127076373	Marionette	INFO	Listening on port 55365
+1538127076415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538127076450	Marionette	INFO	Listening on port 55365
+1538127076471	Marionette	DEBUG	loaded listener.js
+1538127076506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538127079339	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538127079340	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538127081049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538127081833	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538127082370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1490931339&timestamp=1538127081231"
+1538127082375	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1490931339&timestamp=1538127081231"
+1538127082378	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538127083864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[GPU 20032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[GPU 200
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+eived observer notification "outer-window-destroyed" for "2147483657"
+1538127203373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-914838373&timestamp=1538127202288"
+1538127203375	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-914838373&timestamp=1538127202288"
+1538127203379	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538127204772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 6164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6164] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538127378635	geckodriver	INFO	geckodriver 0.18.0
+1538127378649	geckodriver	INFO	Listening on 127.0.0.1:55655
+1538127380738	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538127381624	Marionette	INFO	Enabled via --marionette
+[GPU 4676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1538127383608	Marionette	INFO	Listening on port 55661
+1538127383682	Marionette	INFO	Listening on port 55661
+1538127383878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538127383936	Marionette	DEBUG	loaded listener.js
+1538127383973	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538127387026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538127387026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538127388711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538127390437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=938328149&timestamp=1538127388879"
+1538127390441	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=938328149&timestamp=1538127388879"
+1538127390445	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538127391937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 19032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Marionette	INFO	Enabled via --marionette
+[GPU 6020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538127474002	Marionette	INFO	Listening on port 55811
+1538127474047	Marionette	INFO	Listening on port 55811
+1538127474317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538127474357	Marionette	DEBUG	loaded listener.js
+1538127474396	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538127477412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538127477412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538127479218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538127480091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538127480412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1586930431&timestamp=1538127479415"
+1538127480414	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1586930431&timestamp=1538127479415"
+1538127480417	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538127481987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 6020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6020] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538128007467	geckodriver	INFO	geckodriver 0.18.0
+1538128007477	geckodriver	INFO	Listening on 127.0.0.1:56452
+1538128009591	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538128010485	Marionette	INFO	Enabled via --marionette
+[GPU 16340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538128012343	Marionette	INFO	Listening on port 56462
+1538128012364	Marionette	INFO	Listening on port 56462
+1538128012724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538128012770	Marionette	DEBUG	loaded listener.js
+1538128012801	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538128016204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538128016205	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538128018062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538128019069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538128019392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1825664069&timestamp=1538128018239"
+1538128019394	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1825664069&timestamp=1538128018239"
+1538128019398	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538128020587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 16340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19252] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/chrome/common/ipc_channel_win.cc, line 346
+1538128048670	Marionette	INFO	Listening on port 56643
+1538128048694	Marionette	INFO	Listening on port 56643
+1538128049000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538128049063	Marionette	DEBUG	loaded listener.js
+1538128049095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538128052162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538128052162	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538128053964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538128054990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538128055220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-893652192&timestamp=1538128054168"
+1538128055222	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-893652192&timestamp=1538128054168"
+1538128055224	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538128056607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21072] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+89	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538128146836	Marionette	DEBUG	loaded listener.js
+1538128146868	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538128151054	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538128151055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538128152908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538128154042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538128154313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1520293714&timestamp=1538128153100"
+1538128154315	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1520293714&timestamp=1538128153100"
+1538128154318	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538128155245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:57131
+1538128205489	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538128206479	Marionette	INFO	Enabled via --marionette
+[GPU 20204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538128208583	Marionette	INFO	Listening on port 57146
+1538128208635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538128208662	Marionette	INFO	Listening on port 57146
+1538128208690	Marionette	DEBUG	loaded listener.js
+1538128208732	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538128211740	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538128211741	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538128213436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538128214230	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538128214744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=521227279&timestamp=1538128213596"
+1538128214746	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=521227279&timestamp=1538128213596"
+1538128214751	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538128216501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 20204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 20204] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned erro[GPU 23448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 23448] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 22900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538138428417	geckodriver	INFO	geckodriver 0.18.0
+1538138428430	geckodriver	INFO	Listening on 127.0.0.1:58646
+1538138430458	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538138431597	Marionette	INFO	Enabled via --marionette
+[GPU 11712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538138434433	Marionette	INFO	Listening on port 58657
+1538138434491	Marionette	INFO	Listening on port 58657
+1538138434664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538138434716	Marionette	DEBUG	loaded listener.js
+1538138434757	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538138449042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538138449104	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538138449105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538138449107	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483651"
+1538138452340	geckodriver	INFO	geckodriver 0.18.0
+1538138452352	geckodriver	INFO	Listening on 127.0.0.1:58760
+1538138454443	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538138455385	Marionette	INFO	Enabled via --marionette
+[Child 18332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538138457737	Marionette	INFO	Listening on port 58769
+1538138457815	Marionette	INFO	Listening on port 58769
+1538138458100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538138458170	Marionette	DEBUG	loaded listener.js
+1538138458223	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538138461522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538138461524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538138463836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538138464561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538138465601	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=724430272&timestamp=1538138463909"
+1538138465607	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=724430272&timestamp=1538138463909"
+1538138465609	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538138466921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 20912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 19792] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chrome/common/ipc_channel_win.cc, line 346
+1538139035090	Marionette	INFO	Listening on port 60015
+1538139035109	Marionette	INFO	Listening on port 60015
+1538139035306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538139035369	Marionette	DEBUG	loaded listener.js
+1538139035455	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538139039277	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538139039277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538139041671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538139042273	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538139042849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1353142860&timestamp=1538139041611"
+1538139042850	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1353142860&timestamp=1538139041611"
+1538139042852	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538139044486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GPU 19992] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ome/common/ipc_channel_win.cc, line 346
+1538139226099	Marionette	INFO	Listening on port 60647
+1538139226148	Marionette	INFO	Listening on port 60647
+1538139226414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538139226465	Marionette	DEBUG	loaded listener.js
+1538139226503	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538139229569	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538139229570	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538139232084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538139232450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538139233147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=407745002&timestamp=1538139231958"
+1538139233149	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=407745002&timestamp=1538139231958"
+1538139233158	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538139234871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[GPU 14844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+me/common/ipc_channel_win.cc, line 346
+[Child 24484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-re1538139484803	Marionette	INFO	Listening on port 61265
+1538139484838	Marionette	INFO	Listening on port 61265
+1538139485276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538139485318	Marionette	DEBUG	loaded listener.js
+1538139485347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538139488625	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538139488626	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538139490809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538139491689	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538139492805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=194781721&timestamp=1538139491015"
+1538139492808	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=194781721&timestamp=1538139491015"
+1538139492814	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538139493935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 23636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19324] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+, line 346
+[Child 24728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538139562238	Marionette	INFO	Listening on port 61535
+1538139562256	Marionette	INFO	Listening on port 61535
+1538139562419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538139562668	Marionette	DEBUG	loaded listener.js
+1538139562746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538139565916	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538139565917	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538139568392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538139568713	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1538139569465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-104141440&timestamp=1538139568231"
+1538139569468	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-104141440&timestamp=1538139568231"
+1538139569472	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538139570993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 24860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24860] WARNI
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+O	Enabled via --marionette
+[GPU 24756] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538139626305	Marionette	INFO	Listening on port 61787
+1538139626342	Marionette	INFO	Listening on port 61787
+1538139626421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538139626469	Marionette	DEBUG	loaded listener.js
+1538139626510	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538139629921	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538139629922	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538139631777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538139632742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538139633871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-21290755&timestamp=1538139632035"
+1538139633873	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-21290755&timestamp=1538139632035"
+1538139633875	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538139634982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 25564] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hrome/common/ipc_channel_win.cc, line 346
+[ChilU 5500] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538142500756	Marionette	INFO	Listening on port 51934
+1538142500790	Marionette	INFO	Listening on port 51934
+1538142501198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538142501245	Marionette	DEBUG	loaded listener.js
+1538142501276	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538142507868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538142507868	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538142510387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538142511110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538142512706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1859285688&timestamp=1538142510651"
+1538142512707	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1859285688&timestamp=1538142510651"
+1538142512709	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538142513529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 5500] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5500] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538142762258	geckodriver	INFO	geckodriver 0.18.0
+1538142762269	geckodriver	INFO	Listening on 127.0.0.1:52533
+1538142764366	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538142765096	Marionette	INFO	Enabled via --marionette
+[GPU 22872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538142767080	Marionette	INFO	Listening on port 52541
+1538142767093	Marionette	INFO	Listening on port 52541
+1538142767507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538142767570	Marionette	DEBUG	loaded listener.js
+1538142767603	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538142771160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538142771160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538142773626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538142774074	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538142775100	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1558980455&timestamp=1538142773845"
+1538142775103	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1558980455&timestamp=1538142773845"
+1538142775105	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538142776186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-X6LMX9VR0Y&l=dataLayer&cx=c, line 88: unreachable code after return statement
+[GPU 22872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538142856427	geckodriver	INFO	geckodriver 0.18.0
+1538142856437	geckodriver	INFO	Listening on 127.0.0.1:52937
+1538142858556	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538142859324	Marionette	INFO	Enabled via --marionette
+1538142861307	Marionette	INFO	Listening on port 52945
+1538142861337	Marionette	INFO	Listening on port 52945
+1538142861687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538142861729	Marionette	DEBUG	loaded listener.js
+1538142861759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538142866535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538142866535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538142868967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538142869678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538142870939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1581314615&timestamp=1538142869200"
+1538142870942	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1581314615&timestamp=1538142869200"
+1538142870943	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538142871763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-X6LMX9VR0Y&l=dataLayer&cx=c, line 88: unreachable code after return statement
+[GPU 24700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 24700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538143031468	geckodriver	INFO	geckodriver 0.18.0
+1538143031479	geckodriver	INFO	Listening on 127.0.0.1:53537
+1538143033587	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538143034374	Marionette	INFO	Enabled via --marionette
+[Parent 24464] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1538143036313	Marionette	INFO	Listening on port 53551
+1538143036342	Marionette	INFO	Listening on port 53551
+1538143036716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538143036767	Marionette	DEBUG	loaded listener.js
+1538143036798	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538143040917	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538143040918	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538143045266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538143046065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538143046843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1079841305&timestamp=1538143045430"
+1538143046845	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1079841305&timestamp=1538143045430"
+1538143046847	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538143047758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 15792] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538143167203	geckodriver	INFO	geckodriver 0.18.0
+1538143167214	geckodriver	INFO	Listening on 127.0.0.1:53971
+1538143169321	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538143170099	Marionette	INFO	Enabled via --marionette
+[GPU 11712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538143172083	Marionette	INFO	Listening on port 53981
+1538143172107	Marionette	INFO	Listening on port 53981
+1538143172451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538143172492	Marionette	DEBUG	loaded listener.js
+1538143172526	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538143176122	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538143176122	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538143179711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538143180392	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1538143181008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1847242850&timestamp=1538143179953"
+1538143181012	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1847242850&timestamp=1538143179953"
+1538143181017	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538143181783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 20148] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20148
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538143364139	geckodriver	INFO	geckodriver 0.18.0
+1538143364150	geckodriver	INFO	Listening on 127.0.0.1:54478
+1538143366250	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1538143367001	Marionette	INFO	Enabled via --marionette
+[Parent 12584] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538143369023	Marionette	INFO	Listening on port 54486
+1538143369060	Marionette	INFO	Listening on port 54486
+1538143369382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538143369426	Marionette	DEBUG	loaded listener.js
+1538143369457	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1538143373130	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1538143373131	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1538143376192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.google.com/"
+1538143377040	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1538143377618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-71488207&timestamp=1538143376387"
+1538143377621	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-71488207&timestamp=1538143376387"
+1538143377623	Marionette	DEBUG	Received DOM event "pageshow" for "https://accounts.google.com/"
+1538143378473	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 11008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -2,7 +2,7 @@
 # @Time    : 2017/10/19 14:06
 # @Author  : shenwei
 # @微信公众号    :老干部集中营
-# @File    : data.py
+# @File    : Data.py
 # @Software: PyCharm
 # @Version ：V1.0
 import sys
@@ -18,7 +18,7 @@ apk_path = os.path.abspath(os.path.join(os.path.dirname(__file__),"..")) #获取
 class take_screen_shot():  #这个类将在下面作为装饰器使用
 	def __init__(self, func):
 		self.func = func
-		self.name = apk_path + '\\report\\img_result\\'+ img_file + '\\' + func.__name__ + '.png'  #拼接截图文件名
+		self.name = apk_path + '\\Report\\img_result\\'+ img_file + '\\' + func.__name__ + '.png'  #拼接截图文件名
 
 	def __call__(self, *args):   #对每次调用的函数都做截图操作
 		try:

@@ -24,7 +24,7 @@ try:
             pass
     data.close()
 except IOError:
-    print("The data file is missing!")
+    print("The Data file is missing!")
 
 #输出错误，校验文件
 try:
@@ -63,6 +63,6 @@ except IOError as err:
 except pickle.PickleError as perr:
     print("Pickling error: " + str(perr))
 
-out = open("data.out", "w")
+out = open("Data.out", "w")
 print("Norwegian Blues stun easily.", file=out)
 out.close()

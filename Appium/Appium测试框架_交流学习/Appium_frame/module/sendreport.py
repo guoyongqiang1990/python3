@@ -2,7 +2,7 @@
 # @Time    : 2017/10/19 14:06
 # @Author  : shenwei
 # @微信公众号    :老干部集中营
-# @File    : data.py
+# @File    : Data.py
 # @Software: PyCharm
 # @Version ：V1.0
 import time, os, smtplib
@@ -12,8 +12,8 @@ import email.mime.multipart, email.mime.text, email.mime.base
 #获取当前系统时间，生成HTML路径，生成IMG路径
 def time_fixed():
 	time_fixed = '%s'%(time.strftime("%Y%m%d%H%M%S", time.localtime(time.time())))
-	img_file = (os.getcwd() + '/all_script/report/img_result/' + time_fixed)
-	file_name = (os.getcwd() + '/all_script/report/html_result/')+ time_fixed + '测试报告详情.html'
+	img_file = (os.getcwd() + '/all_script/Report/img_result/' + time_fixed)
+	file_name = (os.getcwd() + '/all_script/Report/html_result/')+ time_fixed + '测试报告详情.html'
 	return  time_fixed, img_file, file_name
 
 #取得定义的上面生成信息
@@ -95,7 +95,7 @@ def send_mail(file_names):
 def sendreport():
 	#找到最新html的文件
 	new_files = []
-	result_html = (os.getcwd() + '/all_script/report/html_result/')
+	result_html = (os.getcwd() + '/all_script/Report/html_result/')
 	lists  = os.listdir(result_html)
 	lists.sort(key = lambda fn: os.path.getmtime(result_html+ '/'+ fn )
 		if not os.path.isdir(result_html+ '/'+ fn ) else 0)
@@ -104,7 +104,7 @@ def sendreport():
 	new_files.append(new_file)
 
 	#找到最新text的文件
-	result_dir = (os.getcwd() + '/all_script/report/text_result/')
+	result_dir = (os.getcwd() + '/all_script/Report/text_result/')
 	lists  = os.listdir(result_dir)
 	lists.sort(key = lambda fn: os.path.getmtime(result_dir+ '/'+ fn )
 		if not os.path.isdir(result_dir+ '/'+ fn ) else 0)
@@ -113,10 +113,10 @@ def sendreport():
 	new_files.append(new_file)
 
 	#找到最新的zip文件
-	zip_result_img = (os.getcwd() + '/all_script/report/img_result/' + gain_time + '/')
-	path_new = (os.getcwd() + '/all_script/report/img_result/')
+	zip_result_img = (os.getcwd() + '/all_script/Report/img_result/' + gain_time + '/')
+	path_new = (os.getcwd() + '/all_script/Report/img_result/')
 	zip(zip_result_img, path_new)
-	result_img = (os.getcwd() + '/all_script/report/img_result/')
+	result_img = (os.getcwd() + '/all_script/Report/img_result/')
 	lists  = os.listdir(result_img)
 	lists.sort(key = lambda fn: os.path.getmtime(result_img+ '/'+ fn )
 		if not os.path.isdir(result_img+ '/'+ fn ) else 0)

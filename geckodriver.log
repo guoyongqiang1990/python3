@@ -102,3 +102,94 @@ JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 1533882871218	geckodriver::marionette	ERROR	Failed to kill browser process
+1534128657460	geckodriver	INFO	geckodriver 0.18.0
+1534128657526	geckodriver	INFO	Listening on 127.0.0.1:57933
+1534128659636	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534128660550	Marionette	INFO	Enabled via --marionette
+[GPU 2872] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534128662764	Marionette	INFO	Listening on port 57939
+1534128662787	Marionette	INFO	Listening on port 57939
+1534128662869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534128662913	Marionette	DEBUG	loaded listener.js
+1534128662945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534128663575	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534128663575	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1534128664839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1534128665473	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1534128670580	Marionette	INFO	New connections will no longer be accepted
+1534130811317	geckodriver	INFO	geckodriver 0.18.0
+1534130811328	geckodriver	INFO	Listening on 127.0.0.1:59971
+1534130813444	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534130814319	Marionette	INFO	Enabled via --marionette
+[Child 6788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1534130816140	Marionette	INFO	Listening on port 59977
+1534130816177	Marionette	INFO	Listening on port 59977
+1534130816595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534130816647	Marionette	DEBUG	loaded listener.js
+1534130816673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534130816709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534130816710	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1534130818196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://172.16.10.68:5050/#/login"
+1534130818357	Marionette	DEBUG	Received DOM event "pageshow" for "http://172.16.10.68:5050/#/login"
+[GPU 13400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534130820759	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+[Parent 9892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Child 356] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534130823513	geckodriver::marionette	ERROR	Failed to kill browser process
+1534156331646	geckodriver	INFO	geckodriver 0.18.0
+1534156331675	geckodriver	INFO	Listening on 127.0.0.1:59361
+1534156333721	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534156334791	Marionette	INFO	Enabled via --marionette
+[GPU 8156] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8480] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child1534156336837	Marionette	INFO	Listening on port 59374
+1534156336904	Marionette	INFO	Listening on port 59374
+1534156336985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534156337031	Marionette	DEBUG	loaded listener.js
+1534156337063	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1534156337197	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1534156337197	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1534156337615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1534156337692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1534156342948	Marionette	INFO	New connections will no longer be accepted
+1534175269108	geckodriver	INFO	geckodriver 0.18.0
+1534175269120	geckodriver	INFO	Listening on 127.0.0.1:62287
+1534175271201	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534175271956	Marionette	INFO	Enabled via --marionette
+[GPU 16712] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1534175273946	Marionette	INFO	Listening on port 62293
+1534175273953	Marionette	INFO	Listening on port 62293
+1534175274338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534175274389	Marionette	DEBUG	loaded listener.js
+1534175274421	Marionette	INFO	New connections will no longer be accepted
+1534176093933	geckodriver	INFO	geckodriver 0.18.0
+1534176093944	geckodriver	INFO	Listening on 127.0.0.1:62558
+1534176096058	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534176097049	Marionette	INFO	Enabled via --marionette
+[GPU 11408] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10288] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1534176099011	Marionette	INFO	Listening on port 62564
+1534176099054	Marionette	INFO	Listening on port 62564
+1534176099282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534176099334	Marionette	DEBUG	loaded listener.js
+1534176099400	Marionette	INFO	New connections will no longer be accepted
+1534176123784	geckodriver	INFO	geckodriver 0.18.0
+1534176123796	geckodriver	INFO	Listening on 127.0.0.1:62589
+1534176125887	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1534176126802	Marionette	INFO	Enabled via --marionette
+[Child 2668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2668] WARNING: pipe error: 109: file c:/builds/moz2_sla1534176128792	Marionette	INFO	Listening on port 62595
+1534176128855	Marionette	INFO	Listening on port 62595
+1534176129096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1534176129153	Marionette	DEBUG	loaded listener.js
+1534176129225	Marionette	INFO	New connections will no longer be accepted

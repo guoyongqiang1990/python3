@@ -1,0 +1,4 @@
+test\nebpay\test_nebpay_normal.py
+test\nebpay\test_nebpay_normal_call.py
+test\nebpay\test_nebpay_NRC20.py
+test\wallet\create_wallet.py

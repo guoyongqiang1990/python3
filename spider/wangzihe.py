@@ -6,10 +6,10 @@ import urllib.request
 import urllib.parse
 from datetime import datetime
 from bs4 import BeautifulSoup
-#from selenium import webdriver
+#from w2cxselenium import webdriver
 import time
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
+from w2cxselenium import webdriver
+from w2cxselenium.webdriver.chrome.options import Options
 import json
 #from sys import argv
 import datetime
@@ -95,11 +95,11 @@ class Monitor_tronscan:
         img_ = soup.find_all(name='img')
         link_list = []
         for each in img_:
-            link_list = Monitor_tronscan.Add_Link(link_list,pre_url,each.get('src'))
+            link_list = Monitor_tronscan.Add_Link(link_list,pre_url,each.get('Src'))
 
         script_ = soup.find_all(name='script')
         for each in script_:
-            link_list = Monitor_tronscan.Add_Link(link_list,pre_url,each.get('src'))
+            link_list = Monitor_tronscan.Add_Link(link_list,pre_url,each.get('Src'))
 
         link_ = soup.find_all(name='link')
         for each in link_:

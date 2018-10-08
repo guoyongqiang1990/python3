@@ -27,7 +27,7 @@ queue.empty(); // 返回 false
 class MyQueue(object):
     def __init__(self):
         """
-        initialize your data structure here.
+        initialize your Data structure here.
         """
         self.inStack, self.outStack = [], []
 
