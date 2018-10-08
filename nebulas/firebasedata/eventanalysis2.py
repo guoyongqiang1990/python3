@@ -1,3 +1,5 @@
+#work to do:干掉converse一列，对比key值
+
 # -*- coding: utf-8 -*-
 import os, sys
 import csv
