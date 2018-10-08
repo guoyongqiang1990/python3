@@ -2,255 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce954c3-757b-4b2a-9a43-4e94a1879ff9" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/power/PowerToolCmd.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/power/usbplug.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/docs/P&amp;U测试框架使用手册.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/readme.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/resource/image/adc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/resource/jar/PowerTestCases.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/libs/Utf7Ime.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/libs/app-uiautomator-test.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/libs/app-uiautomator.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/libs/bundle.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/libs/uiautomator-stub.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/case/productCase.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/case/userCase.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/csvtestresult.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/exltestresult.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/exltestresult.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/report/html_result/20180928163138测试报告详情.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/AutoTestFramework_Py36.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/.pydevproject" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/HTMLTestRunner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/CONST/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/checkpoint/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/common/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/power/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/settings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/aw/wallet/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/caseList.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/logger/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/project.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/project.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/resource/Reader.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/run.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/runPlus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_airplane_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_blackScreenGestures_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_blackScreenGestures_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_browser_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_browser_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_browser_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_browser_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_compass_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_compass_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_doubleClick_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_doubleClick_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_flashlight_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_frontCameraPicture_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_frontCameraRecord_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_hotpoint_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_keyguardStory_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_keyguardStory_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_keyguardStory_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_location_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_location_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_location_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_mainCameraPicture_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_mainCameraRecord_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_mobileData_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_mobileData_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_musicPlayback_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_musicPlayback_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_notes_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_notes_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_radioBT_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_radioGps_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_radioHotpoint_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_radioWifi_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_recorder_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_recorder_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_screenOn_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_settings_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_systemManager_007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_videoPlayback_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/PowerConsumption/test_power_videoPlayback_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_001_006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_002_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_002_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_002_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_003_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/contact/test_Contact_003_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_QQ_003.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_baidu_008.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_call_005.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_camera_010.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_game_006.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_music_007.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_presetup_000.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_reader_009.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_video_002.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_wechat_001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/currentTest/test_power_weibo_004.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/nebpay/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/nebpay/test_nebpay_NRC20.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/nebpay/test_nebpay_normal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/nebpay/test_nebpay_normal_call.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/settings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_Bluetooth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_WLAN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_camera.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_contact.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_encryptspace.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_lockscreen.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_privateLine.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/test_upgrade_OTA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/wallet/create_wallet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/wallet/create_wallet_50.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/wallet/send_just_gas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/test/wallet/send_nas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/GMS_xml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/Note_Write.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/OTA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/catchlog_mt.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/catchlog_qc.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/generatePowerTestResult.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/reboot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/test_meminfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/upgrade_fastboot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/tools/videoPowerResult.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AutoTestFramework_Py36/uiautomator/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HeadFirstPython/interview/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HeadFirstPython/interview/interview.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HeadFirstPython/interview/log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/.idea/interfaceTest.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/caselist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/HTMLTestRunner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/Log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/businessCommon.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/common.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/configDB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/configEmail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/common/configHttp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/readConfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/result/20180814133253/output.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/result/20180814133253/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/result/20180814134118/output.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/result/20180814134118/report.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/runAll.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/product/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/product/testGetProductInfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testAccountSetting.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testAddAddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testDeleteAddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testGenerate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testGetAddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testGetAddressList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testLogin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testLoginFB.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testLogout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testRegister.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testRegisterQuick.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testUpdatePassword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testCase/user/testUploadImg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/SQL.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/emailStyle.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/img/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interfaceTest/testFile/interfaceURL.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monkeyloganalysis/analysismonkeylog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monkeyloganalysis/maketohtml.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/EventsAnalysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/data-export.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/event_analysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/try.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/devices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/file_ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/getdatatograph.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/liang/runMonkey.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/resignapk/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/resignapk/resignapk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/resignapk/resignwallet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/resignapk/try.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Base/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Business/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Main/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Main/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Main/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Operate/LoginPageOperate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Operate/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/PageObject/BasePage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/PageObject/LoginPage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/PageObject/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/PageObject/test_login.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Public/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/TestCase/CaseLoginPage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/TestCase/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/Tools/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/Src/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2cxselenium/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nebulas/firebasedata/exltestresult.xls" afterPath="$PROJECT_DIR$/nebulas/firebasedata/exltestresult.xls" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/button.yaml" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/button.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/information.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/information.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/test_phone.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/test_phone.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/test_phone.yaml" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/data/test_phone.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/lujing.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/lujing.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/apk.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/apk.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/data.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/data.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/img_file.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/img_file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/location_element.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/location_element.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/screenshot.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/public/screenshot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/report/html_result/20171024161318测试报告详情.html" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/report/html_result/20171024161318测试报告详情.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/report/html_result/20180810111429测试报告详情.html" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/report/html_result/20180810111429测试报告详情.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/testcase/test_shuku.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/testcase/test_shuku.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/verifycase/start_creat.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/all_script/verifycase/start_creat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/main.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/module/creat_img_file.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/module/creat_img_file.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/module/sendreport.py" afterPath="$PROJECT_DIR$/Appium/Appium测试框架_交流学习/Appium_frame/module/sendreport.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/myAppiumLog.html" afterPath="$PROJECT_DIR$/Appium/myAppiumLog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HeadFirstPython/chapter3/errorkinds.py" afterPath="$PROJECT_DIR$/HeadFirstPython/chapter3/errorkinds.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HeadFirstPython/chapter3/fileoperation.py" afterPath="$PROJECT_DIR$/HeadFirstPython/chapter3/fileoperation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geckodriver.log" afterPath="$PROJECT_DIR$/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode/16.py" afterPath="$PROJECT_DIR$/leetcode/16.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/baidu.py" afterPath="$PROJECT_DIR$/spider/baidu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/wangzihe.py" afterPath="$PROJECT_DIR$/spider/wangzihe.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex.py" afterPath="$PROJECT_DIR$/ex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nebulas/firebasedata/data-export.csv" afterPath="$PROJECT_DIR$/nebulas/firebasedata/data-export.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py" afterPath="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nebulas/firebasedata/try.py" afterPath="$PROJECT_DIR$/nebulas/firebasedata/try.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -296,7 +55,7 @@
     <SUITE FILE_PATH="coverage/Python3$defineclass.coverage" NAME="defineclass Coverage Results" MODIFIED="1528969596016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter6" />
     <SUITE FILE_PATH="coverage/Python3$4.coverage" NAME="4 Coverage Results" MODIFIED="1532436671469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python3$BasePage.coverage" NAME="BasePage Coverage Results" MODIFIED="1534229699378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2cxselenium/Src/PageObject" />
-    <SUITE FILE_PATH="coverage/Python3$ex__1_.coverage" NAME="ex (1) Coverage Results" MODIFIED="1536892305552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/liang" />
+    <SUITE FILE_PATH="coverage/Python3$ex__1_.coverage" NAME="ex (1) Coverage Results" MODIFIED="1539005610191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/liang" />
     <SUITE FILE_PATH="coverage/Python3$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1510219529886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
     <SUITE FILE_PATH="coverage/Python3$23.coverage" NAME="23 Coverage Results" MODIFIED="1533699599679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python3$BasePage__1_.coverage" NAME="BasePage (1) Coverage Results" MODIFIED="1534156369558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2cxselenium/Src/PO" />
@@ -320,10 +79,11 @@
     <SUITE FILE_PATH="coverage/Python3$sversion.coverage" NAME="sversion Coverage Results" MODIFIED="1538124804189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python3$LoginPage__1_.coverage" NAME="LoginPage (1) Coverage Results" MODIFIED="1534174613329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2cxselenium/Src/PageObject" />
     <SUITE FILE_PATH="coverage/Python3$18.coverage" NAME="18 Coverage Results" MODIFIED="1533201959908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
-    <SUITE FILE_PATH="coverage/Python3$eventanalysis2.coverage" NAME="eventanalysis2 Coverage Results" MODIFIED="1538967993728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
+    <SUITE FILE_PATH="coverage/Python3$eventanalysis2.coverage" NAME="eventanalysis2 Coverage Results" MODIFIED="1539006909434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
     <SUITE FILE_PATH="coverage/Python3$fileoperation.coverage" NAME="fileoperation Coverage Results" MODIFIED="1535430314315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter3" />
     <SUITE FILE_PATH="coverage/Python3$devices.coverage" NAME="devices Coverage Results" MODIFIED="1536561398080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas" />
     <SUITE FILE_PATH="coverage/Python3$14.coverage" NAME="14 Coverage Results" MODIFIED="1532943874499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+    <SUITE FILE_PATH="coverage/Python3$eventanalysis3.coverage" NAME="eventanalysis3 Coverage Results" MODIFIED="1539006920743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
     <SUITE FILE_PATH="coverage/Python3$runMonkey.coverage" NAME="runMonkey Coverage Results" MODIFIED="1538023999278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas" />
     <SUITE FILE_PATH="coverage/Python3$CaseLoginPage.coverage" NAME="CaseLoginPage Coverage Results" MODIFIED="1534155475400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium/Src/TestCase" />
     <SUITE FILE_PATH="coverage/Python3$standardout.coverage" NAME="standardout Coverage Results" MODIFIED="1528343242353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter3" />
@@ -333,7 +93,7 @@
     <SUITE FILE_PATH="coverage/Python3$movie__1_.coverage" NAME="movie (1) Coverage Results" MODIFIED="1510216778874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter1&amp;2" />
     <SUITE FILE_PATH="coverage/Python3$20.coverage" NAME="20 Coverage Results" MODIFIED="1533692847206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/Python3$a.coverage" NAME="a Coverage Results" MODIFIED="1534175249685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w2cxselenium/Src/PageObject" />
-    <SUITE FILE_PATH="coverage/Python3$ex.coverage" NAME="ex Coverage Results" MODIFIED="1538203154696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/liang" />
+    <SUITE FILE_PATH="coverage/Python3$ex.coverage" NAME="ex Coverage Results" MODIFIED="1539003378688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python3$event_analysis.coverage" NAME="event_analysis Coverage Results" MODIFIED="1538143363870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
     <SUITE FILE_PATH="coverage/Python3$movies.coverage" NAME="movies Coverage Results" MODIFIED="1528340886359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter1&amp;2" />
     <SUITE FILE_PATH="coverage/Python3$Unittests_for_w2cxselenium_Src_PageObject_a_Caselogin52cx_setUpClass.coverage" NAME="Unittests for w2cxselenium.Src.PageObject.test_login.Caselogin52cx.setUpClass Coverage Results" MODIFIED="1534174096384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -343,7 +103,7 @@
     <SUITE FILE_PATH="coverage/Python3$sort.coverage" NAME="sort Coverage Results" MODIFIED="1528702858039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter5" />
     <SUITE FILE_PATH="coverage/Python3$Unittests_for_ceshi_AppMainPage_test_location.coverage" NAME="Unittests for ceshi.AppMainPage.test_location Coverage Results" MODIFIED="1513049520647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
     <SUITE FILE_PATH="coverage/Python3$monkey_dist.coverage" NAME="monkey_dist Coverage Results" MODIFIED="1536223888336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/monkey_test" />
-    <SUITE FILE_PATH="coverage/Python3$try.coverage" NAME="try Coverage Results" MODIFIED="1538222654015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
+    <SUITE FILE_PATH="coverage/Python3$try.coverage" NAME="try Coverage Results" MODIFIED="1539003399858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nebulas/firebasedata" />
     <SUITE FILE_PATH="coverage/Python3$Unittests_for_w2cxselenium_Src_PageObject_a_Caselogin52cx.coverage" NAME="Unittests for w2cxselenium.Src.PageObject.test_login.Caselogin52cx Coverage Results" MODIFIED="1534175300851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python3$Unittests_for_w2cxselenium_Src_TestCase_CaseLoginPage_Caselogin52cx.coverage" NAME="Unittests for w2cxselenium.Src.TestCase.CaseLoginPage.Caselogin52cx Coverage Results" MODIFIED="1534165177687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python3$listaaa.coverage" NAME="listaaa Coverage Results" MODIFIED="1516348728142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HeadFirstPython/chapter5" />
@@ -365,45 +125,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="event_csv_analysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py">
+      <file leaf-file-name="eventanalysis3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eventanalysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="851">
-              <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eventanalysis2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+            <state relative-caret-position="3243">
+              <caret line="141" column="52" lean-forward="true" selection-start-line="141" selection-start-column="52" selection-end-line="141" selection-end-column="52" />
               <folding>
-                <element signature="e#57#71#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="event_analysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/event_analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-              <folding>
-                <element signature="e#24#46#0" expanded="true" />
+                <element signature="e#24#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -421,6 +149,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>xxx</find>
+      <find>requirmentdata</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -429,9 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/10.py" />
-        <option value="$PROJECT_DIR$/leetcode/11.py" />
-        <option value="$PROJECT_DIR$/leetcode/12.py" />
         <option value="$PROJECT_DIR$/leetcode/13.py" />
         <option value="$PROJECT_DIR$/leetcode/14.py" />
         <option value="$PROJECT_DIR$/leetcode/15.py" />
@@ -478,8 +204,11 @@
         <option value="$PROJECT_DIR$/nebulas/liang/ex.py" />
         <option value="$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py" />
         <option value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis.py" />
-        <option value="$PROJECT_DIR$/nebulas/firebasedata/try.py" />
+        <option value="$PROJECT_DIR$/nebulas/eventanalysis3.py" />
         <option value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py" />
+        <option value="$PROJECT_DIR$/ex.py" />
+        <option value="$PROJECT_DIR$/nebulas/firebasedata/try.py" />
+        <option value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis3.py" />
       </list>
     </option>
   </component>
@@ -511,6 +240,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -557,8 +288,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -567,15 +296,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Python3\HeadFirstPython\interview" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Python3\nebulas\firebasedata" />
       <recent name="D:\PycharmProjects\Python3\nebulas\liang" />
       <recent name="D:\PycharmProjects\Python3\nebulas\resignapk" />
       <recent name="D:\PycharmProjects\Python3\selenium\Src\TestCase" />
       <recent name="D:\PycharmProjects\Python3\selenium\Src\PO" />
-      <recent name="D:\PycharmProjects\Python3\HeadFirstPython\chapter1&amp;2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\Python3\HeadFirstPython\interview" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -590,26 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.eventanalysis2">
-    <configuration default="false" name="event_csv_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nebulas/firebasedata" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.eventanalysis3">
     <configuration default="false" name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -629,44 +339,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nebulas/liang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/liang/ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="eventanalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nebulas/firebasedata" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="eventanalysis2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -681,6 +353,63 @@
       <module name="Python3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="eventanalysis3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nebulas/firebasedata" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/firebasedata/eventanalysis3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nebulas/liang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nebulas/liang/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -835,17 +564,17 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.event_csv_analysis" />
-      <item index="1" class="java.lang.String" itemvalue="Python.try" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex" />
-      <item index="3" class="java.lang.String" itemvalue="Python.eventanalysis" />
-      <item index="4" class="java.lang.String" itemvalue="Python.eventanalysis2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.try" />
+      <item index="1" class="java.lang.String" itemvalue="Python.eventanalysis2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.eventanalysis3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.eventanalysis2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.eventanalysis" />
-        <item index="2" class="java.lang.String" itemvalue="Python.event_csv_analysis" />
+        <item index="0" class="java.lang.String" itemvalue="Python.eventanalysis3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.eventanalysis2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex (1)" />
         <item index="3" class="java.lang.String" itemvalue="Python.try" />
         <item index="4" class="java.lang.String" itemvalue="Python.ex" />
       </list>
@@ -935,7 +664,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947034" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777116" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36829558" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34684148" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978156" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1005,14 +734,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="28" column="48" lean-forward="false" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/monkey_test/monkey_dist.py" />
     <entry file="file://$PROJECT_DIR$/nebulas/Monkey_dist.py" />
     <entry file="file://$PROJECT_DIR$/nebulas/liang/devices.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1270,68 +991,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nebulas/liang/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nebulas/liang/runMonkey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
-          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/try.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nebulas/liang/checkAndroidChannelInfo.py" />
     <entry file="file://$PROJECT_DIR$/nebulas/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/nebulas/liang/getdatatograph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/event_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="414">
           <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
-            <element signature="e#24#46#0" expanded="true" />
+            <element signature="e#24#46#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="38" column="37" lean-forward="false" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        <state relative-caret-position="138">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/event_csv_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/liang/getdatatograph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/liang/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/liang/runMonkey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-434">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        <state relative-caret-position="161">
+          <caret line="85" column="47" lean-forward="true" selection-start-line="85" selection-start-column="47" selection-end-line="85" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nebulas/firebasedata/eventanalysis3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="52" lean-forward="true" selection-start-line="141" selection-start-column="52" selection-end-line="141" selection-end-column="52" />
           <folding>
-            <element signature="e#57#71#0" expanded="true" />
+            <element signature="e#24#38#0" expanded="true" />
           </folding>
         </state>
       </provider>

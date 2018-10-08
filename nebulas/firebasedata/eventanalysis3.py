@@ -4,7 +4,7 @@ import csv
 import openpyxl
 import xlwt
 
-#读取csv数据
+#读取从firebase导出的csv埋点数据
 
 def read_csvdata(csvpath):
     try:
@@ -19,12 +19,13 @@ def read_csvdata(csvpath):
 def data_analysis(csvdata):
     # 增加一列
     csvdata[3].append("result")
-    #验证埋点事件
+    # 验证埋点事件
     for i in range(4, len(csvdata)):
         if csvdata[i][1] == "0" or csvdata[i][2] == "0":
             csvdata[i].append('Fail')
         else:
             csvdata[i].append("Pass")
+    #将第三列conversion去掉
     for i in range(3, len(csvdata)):
         del csvdata[i][3]
         print(csvdata[i])
@@ -89,22 +90,53 @@ def write_exlresult(csvdata, exlresultpath):
                 else:
                     sheet.write(i, j, csvdata[i][j], style1)
 
-
-
         wb.save(exlresultpath)
-        print("埋点生效情况验证完毕！")
 
     except IOError as err:
         print("File Error: " + str(err))
 
+#读取需求excel文档
+def read_requirement(requirementpath):
+    try:
+        with open(requirementpath, 'rb') as requirementfile:
+            workbook = openpyxl.load_workbook(requirementfile)
+            worksheet = workbook.active
+            #print(worksheet.title)
+            #将excel数据按行读取成列表
+            requirementdata = []
+            for i in range(len(list(worksheet.rows))):
+                rowdata = []
+                for cell in list(worksheet.rows)[i]:
+                    rowdata.append(cell.value)
+                if type(rowdata[0]) is float: #将不是埋点事件的行去掉
+                    requirementdata.append(rowdata)
+        return requirementdata
+    except IOError as err:
+        print("File Error: " + str(err))
+
+#验证埋点需求完整性
+def verify_requirement(finalresult, requirementdata):
+    finalresult2 = "".join(str(finalresult))
+    for i in range(len(requirementdata)):
+        if requirementdata[i][2] not in finalresult2:
+            print("%s  %s 事件统计失败!\n" % (requirementdata[i][1], requirementdata[i][2]))
+    print("埋点生效情况验证完毕！")
+
+
+
 if __name__ == "__main__":
     from sys import argv
-    #filepath = argv[1]
-    #testresultpath = argv[2]
+    #requirementpath = argv[1]
+    #filepath = argv[2]
+    #testresultpath = argv[3]
+    requirementpath = "2.2埋点需求.xlsx"
     filepath = "data-export.csv"
     #csvresultpath = 'csvtestresult.csv'
     exlresultpath = 'exltestresult.xls'
-    data = read_csvdata(filepath)
-    data2 = data_analysis(data)
-    #write_csvresult(data2, csvresultpath)
-    write_exlresult(data2, exlresultpath)
+    csvdata = read_csvdata(filepath)
+    finalresult = data_analysis(csvdata)
+    #write_csvresult(finalresult, csvresultpath)
+    write_exlresult(finalresult, exlresultpath)
+    requirementdata = read_requirement(requirementpath)
+    #print(requirementdata)
+    verify_requirement(finalresult, requirementdata)

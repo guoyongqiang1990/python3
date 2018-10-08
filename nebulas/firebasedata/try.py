@@ -1,37 +1,28 @@
 # -*- coding: utf-8 -*-
 import os, sys
 import csv
+import openpyxl
+import xlwt
 
-#读取csv数据
+#work to do:干掉converse一列，对比key值
 
-def read_csvdata(csvpath):
-    csvdata = []
+#读取需求excel文档
+def read_requirement(requirementpath):
     try:
-        with open(csvpath, 'r') as csvfile:
-            reader = csv.reader(csvfile)
-            #csvdata = csvfile.read()
-            #print(csvdata)
-
-            for line in reader:
-                csvdata.append(line)
-            print(csvdata)
-        return csvdata
+        with open(requirementpath, 'rb') as requirementfile:
+            workbook = openpyxl.load_workbook(requirementfile)
+            worksheet = workbook.active
+            #print(worksheet.title)
+            #将excel数据按行读取成列表
+            requirementdata = []
+            for i in range(len(list(worksheet.rows))):
+                rowdata = []
+                for cell in list(worksheet.rows)[i]:
+                    rowdata.append(cell.value)
+                if type(rowdata[0]) is float: #将不是埋点事件的行去掉
+                    requirementdata.append(rowdata)
+        return requirementdata
     except IOError as err:
         print("File Error: " + str(err))
 
-
-read_csvdata("data-export.csv")
-"""
-lista = ["12,345"]
-print("".join(lista).split(","))
-listb = ["2","3","4"]
-#print(listb)
-for each in lista:
-    each = each.split(",")
-    print(each)
-
-for i in range(len(lista)):
-    lista[i] = "".join(lista[i]).split(",")
-    #print(lista[i].split(','))
-
-print(lista)"""
+print(read_requirement('2.2埋点需求.xlsx'))
