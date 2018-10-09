@@ -108,8 +108,9 @@ def read_requirement(requirementpath):
                 rowdata = []
                 for cell in list(worksheet.rows)[i]:
                     rowdata.append(cell.value)
-                if type(rowdata[0]) is float: #将不是埋点事件的行去掉
+                if type(rowdata[0]) is int: #将不是埋点事件的行去掉
                     requirementdata.append(rowdata)
+        print(requirementdata)
         return requirementdata
     except IOError as err:
         print("File Error: " + str(err))
