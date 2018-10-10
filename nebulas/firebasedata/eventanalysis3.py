@@ -108,9 +108,9 @@ def read_requirement(requirementpath):
                 rowdata = []
                 for cell in list(worksheet.rows)[i]:
                     rowdata.append(cell.value)
-                if type(rowdata[0]) is int: #将不是埋点事件的行去掉
+                if type(rowdata[0]) is int or type(rowdata[0]) is float: #将不是埋点事件的行去掉
                     requirementdata.append(rowdata)
-        print(requirementdata)
+        #print(requirementdata)
         return requirementdata
     except IOError as err:
         print("File Error: " + str(err))
@@ -130,10 +130,10 @@ if __name__ == "__main__":
     #requirementpath = argv[1]
     #filepath = argv[2]
     #testresultpath = argv[3]
-    requirementpath = "2.2埋点需求.xlsx"
-    filepath = "data-export.csv"
+    requirementpath = r"D:\PycharmProjects\Python3\nebulas\firebasedata\data\2.2埋点需求.xlsx"
+    filepath = r"D:\PycharmProjects\Python3\nebulas\firebasedata\data\data-export.csv"
     #csvresultpath = 'csvtestresult.csv'
-    exlresultpath = 'exltestresult.xls'
+    exlresultpath = r'D:\PycharmProjects\Python3\nebulas\firebasedata\data\exltestresult.xls'
     csvdata = read_csvdata(filepath)
     finalresult = data_analysis(csvdata)
     #write_csvresult(finalresult, csvresultpath)
