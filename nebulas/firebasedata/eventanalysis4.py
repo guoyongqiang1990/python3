@@ -30,7 +30,7 @@ def read_requirement(requirementpath):
                     rowdata.append(cell.value)
                 if type(rowdata[0]) is int or type(rowdata[0]) is float:  # 将不是埋点事件的行去掉
                     requirementdata.append(rowdata[1:4])
-        print(requirementdata)
+        #print(requirementdata)
         return requirementdata
     except IOError as err:
         print("File Error: " + str(err))
@@ -89,7 +89,7 @@ def write_exlresult(csvdata, exlresultpath):
             for j in range(0, len(csvdata[i])):
                 sheet.cell(row=i+1, column=j+1, value= csvdata[i][j])
         wb.save(exlresultpath)
-        print("埋点生效情况验证完毕！")
+        
     except IOError as err:
         print("File Error: " + str(err))'''
 
@@ -131,7 +131,7 @@ def write_exlresult(testresult, exlresultpath):
                 else:
                     sheet.write(i+2, j, testresult[i][j], style1)
         wb.save(exlresultpath)
-
+        print("埋点生效情况验证完毕！请到data文件夹下查看结果")
     except IOError as err:
         print("File Error: " + str(err))
 
