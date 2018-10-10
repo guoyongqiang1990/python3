@@ -11,46 +11,46 @@ def read_csvdata(csvpath):
         with open(csvpath, 'r') as csvfile:
             reader = csv.reader(csvfile)
             csvdata = [row for row in reader]
-        return csvdata
+        return csvdata[4:]
     except IOError as err:
         print("File Error: " + str(err))
 
-#处理数据
-def data_analysis(csvdata):
-    # 增加一列
-    csvdata[3].append("result")
-    # 验证埋点事件
-    for i in range(4, len(csvdata)):
-        if csvdata[i][1] == "0" or csvdata[i][2] == "0":
-            csvdata[i].append('Fail')
-        else:
-            csvdata[i].append("Pass")
-    #将第三列conversion去掉
-    for i in range(3, len(csvdata)):
-        del csvdata[i][3]
-        print(csvdata[i])
-    return csvdata
-
-#读取需求excel文档
+# 读取需求excel文档
 def read_requirement(requirementpath):
     try:
         with open(requirementpath, 'rb') as requirementfile:
             workbook = openpyxl.load_workbook(requirementfile)
             worksheet = workbook.active
-            #print(worksheet.title)
-            #将excel数据按行读取成列表
+            # print(worksheet.title)
+            # 将excel数据按行读取成列表
             requirementdata = []
             for i in range(len(list(worksheet.rows))):
                 rowdata = []
                 for cell in list(worksheet.rows)[i]:
                     rowdata.append(cell.value)
-                if type(rowdata[0]) is int or type(rowdata[0]) is float: #将不是埋点事件的行去掉
-                    requirementdata.append(rowdata)
-        #print(requirementdata)
+                if type(rowdata[0]) is int or type(rowdata[0]) is float:  # 将不是埋点事件的行去掉
+                    requirementdata.append(rowdata[1:4])
+        print(requirementdata)
         return requirementdata
     except IOError as err:
         print("File Error: " + str(err))
 
+#处理数据
+def data_analysis(csvdata, requirementdata):
+    csvdict = {}
+    for items in csvdata:
+        csvdict.update({items[0]: items})
+    #print(csvdict)
+    # 验证埋点事件
+    for items in requirementdata:
+        if items[1] in csvdict and csvdict[items[1]][1] != "0" and csvdict[items[1]][2] != '0':
+            items.append("Pass")
+        if items[1] not in csvdict or csvdict[items[1]][1] == '0' or csvdict[items[1]][2] == '0':
+            items.append("Fail")
+
+    return requirementdata
+
+'''
 #验证埋点需求完整性
 def verify_requirement(csvtestresult, requirementdata):
     csvtestresult2 = "".join(str(csvtestresult))
@@ -64,7 +64,7 @@ def verify_requirement(csvtestresult, requirementdata):
             failedresult.append(failedevent)
     print(failedresult)
     print("埋点生效情况验证完毕！")
-    return failedresult
+    return failedresult'''
 
 '''
 #写数据 保存为csv文件
@@ -94,7 +94,7 @@ def write_exlresult(csvdata, exlresultpath):
         print("File Error: " + str(err))'''
 
 #写数据 保存为excel文件，使用xlwt
-def write_exlresult(failedtestresult, csvdata, exlresultpath):
+def write_exlresult(testresult, exlresultpath):
     try:
         wb = xlwt.Workbook()
         sheet = wb.add_sheet("EventTestResult")
@@ -119,17 +119,17 @@ def write_exlresult(failedtestresult, csvdata, exlresultpath):
         style2.font = font2
 
         #写数据
-        for i in range(0, len(failedtestresult)):
-            for j in range(0, len(failedtestresult[i])):
-                    sheet.write(i, j, failedtestresult[i][j], style2)
-
-        for i in range(0, len(csvdata)):
-            for j in range(0, len(csvdata[i])):
-                if csvdata[i][j] == "Fail":
-                    sheet.write(i+len(failedtestresult), j, csvdata[i][j], style2)
+        sheet.write(0, 0, "NasNano埋点统计测试结果", style1)
+        sheet.write(1, 0, "埋点", style1)
+        sheet.write(1, 1, "key", style1)
+        sheet.write(1, 2, "版本", style1)
+        sheet.write(1, 3, "测试结果", style1)
+        for i in range(0, len(testresult)):
+            for j in range(0, len(testresult[i])):
+                if testresult[i][j] == "Fail":
+                    sheet.write(i+2, j, testresult[i][j], style2)
                 else:
-                    sheet.write(i+len(failedtestresult), j, csvdata[i][j], style1)
-
+                    sheet.write(i+2, j, testresult[i][j], style1)
         wb.save(exlresultpath)
 
     except IOError as err:
@@ -137,18 +137,14 @@ def write_exlresult(failedtestresult, csvdata, exlresultpath):
 
 
 if __name__ == "__main__":
-    from sys import argv
-    #requirementpath = argv[1]
-    #filepath = argv[2]
-    #testresultpath = argv[3]
     requirementpath = os.getcwd() + os.sep + "data" + os.sep + "2.2埋点需求.xlsx"
     filepath = os.getcwd() + os.sep + "data" + os.sep + "data-export.csv"
     #csvresultpath = 'csvtestresult.csv'
     exlresultpath = os.getcwd() + os.sep + "data" + os.sep + "exltestresult.xls"
     csvdata = read_csvdata(filepath)
-    csvtestresult = data_analysis(csvdata)
     requirementdata = read_requirement(requirementpath)
+    testresult = data_analysis(csvdata, requirementdata)
     # print(requirementdata)
-    failedresult = verify_requirement(csvtestresult, requirementdata)
+    #failedresult = verify_requirement(csvtestresult, requirementdata)
     #write_csvresult(finalresult, csvresultpath)
-    write_exlresult(failedresult, csvtestresult, exlresultpath)
+    write_exlresult(testresult, exlresultpath)
