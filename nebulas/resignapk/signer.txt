@@ -1,0 +1,8 @@
+生成签名：C:\Program Files\Java\jdk1.8.0_144\bin> keytool -genkey -alias android.keystore -keyalg RSA -validity 20000 -keystore D:/android.keystore
+
+重新签名（cd到文件目录）：
+
+jarsigner -verbose -digestalg SHA1 -sigalg MD5withRSA -keystore C:\Users\郭永强\Desktop\Nasnano2.2\android.keystore -storepass 123456 -signedjar wallet_sign.apk wallet.apk android.keystore -keypass 123456
+
+"jarsigner -verbose -digestalg SHA1 -sigalg MD5withRSA -keystore "+ keystore_path + " -storepass " +keystore_pass + " -signedjar wallet-sign.apk wallet.apk " + keystore_alias +" -keypass " + keystore_alias_pass)
+os.system("jarsigner -verbose -digestalg SHA1 -sigalg MD5withRSA -keystore "+ keystore_path + " -storepass " +keystore_pass + " -signedjar " +new_name +apk_name +keystore_alias +" -keypass " + keystore_alias_pass)
