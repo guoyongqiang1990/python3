@@ -7,12 +7,12 @@ try:
         desired_caps = {}
         #设置测试平台
         desired_caps['platformName'] = 'Android'
-        desired_caps['platformVersion'] = '5.1'
-        desired_caps['deviceName'] = 'A10ABMQE8WGU'
+        desired_caps['platformVersion'] = '8.0.0'
+        desired_caps['deviceName'] = 'C4Y7N16506009767'
         #设置启动参数
-        desired_caps['appPackage'] = 'com.w2cx.businessversion'
-        desired_caps['appActivity'] = 'com.w2cx.clientversion.module.splash.SplashActivity'
-        desired_caps['appWaitActivity'] = 'com.w2cx.clientversion.module.splash.SplashActivity'
+        desired_caps['appPackage'] = 'io.nebulas.wallet.android.test'
+        desired_caps['appActivity'] = 'io.nebulas.wallet.android.module.launch.LaunchActivity'
+        desired_caps['appWaitActivity'] = 'io.nebulas.wallet.android.module.launch.LaunchActivity'
         desired_caps['sessionOverride'] = 'true' #每次启动时覆盖session，否则第二次后运行会报错不能新建session
         desired_caps['unicodeKeyboard'] = 'true' #设置键盘
         desired_caps['resetKeyboard'] = 'true'   #设置默认键盘为appium的键盘
@@ -22,17 +22,23 @@ try:
         driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
         #sleep(3)
         driver.implicitly_wait(10)
-        #获取上下文
 
 
-        # 点击顶部定位栏
-        driver.find_element_by_name("北京市").click()
+        # 点击不升级
+        driver.find_element_by_id("io.nebulas.wallet.android.test:id/rootView").click()
         #sleep(2)
         driver.implicitly_wait(10)
 
-        #点击顶部搜索框
-        search_text = driver.find_element_by_id("com.w2cx.businessversion:id/search_edit")
-        #清空搜索框
+        #点击同意协议
+        driver.find_element_by_id("io.nebulas.wallet.android.test:id/agreeCB").click()
+        # sleep(2)
+        driver.implicitly_wait(10)
+
+        driver.find_element_by_id("io.nebulas.wallet.android.test:id/positiveTV").click()
+        # sleep(2)
+        driver.implicitly_wait(10)
+
+        """
         search_text.clear()
         #输入搜索词
         search_text.send_keys("武汉")
@@ -65,6 +71,7 @@ try:
         #点击“取消”按钮
         driver.findElementByName("取消").click()
         sleep(2)'''
+        """
 
         sleep(5)
         driver.close_app()
